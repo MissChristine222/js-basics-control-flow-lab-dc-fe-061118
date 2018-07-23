@@ -2,7 +2,7 @@
 
 var scuberGreetingForFeet = '';
 function scuberGreetingForFeet() {
-  if (distance <= 400) {
+  if (scuberGreetingForFeet <= 400) {
   scuberGreetingForFeet = "This one is on me!";
 } else if (distance > 2000 ); {
   scuberGreetingForFeet = "I will gladly take your thirty bucks.";
