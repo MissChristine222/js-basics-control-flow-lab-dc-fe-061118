@@ -2,7 +2,7 @@
 
 var scuberGreetingForFeet;
 function scuberGreetingForFeet(someValue) {
-  if (scuberGreetingForFeet(someValu <= 400) {
+  if (scuberGreetingForFeet(someValue<= 400)) {
   return "This one is on me!";
 } else if (scuberGreetingForFeet > 2000 ) {
   return "I will gladly take your thirty bucks.";
