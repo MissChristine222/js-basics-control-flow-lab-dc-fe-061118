@@ -1,6 +1,6 @@
 // Write your code in this file!
 
-let scuberGreetingForFeet;
+let scuberGreetingForFeet = '';
 scuberGreetingForFeet(distance); {
   if (distance <= 400); {
   scuberGreetingForFeet = "This one is on me!";
