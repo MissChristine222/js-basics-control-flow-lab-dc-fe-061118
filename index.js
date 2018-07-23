@@ -11,11 +11,4 @@ function scuberGreetingForFeet(distance) {
 }
 }
 
-function ternaryCheckCity (city) {
-  if (city=='NYC') {
-    return "Ok, sounds good.";
-  }
-  else if (city!='NYC') {
-    return "No go.";
-  }
-}
+const ternaryCheckCity = ($city===‘NYC’) ? “Ok, sounds good.” : “No go.”
