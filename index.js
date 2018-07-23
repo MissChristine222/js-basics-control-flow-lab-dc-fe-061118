@@ -1,7 +1,7 @@
 // Write your code in this file!
 
 var scuberGreetingForFeet = '';
-function scuberGreetingForFeet(distance); {
+function scuberGreetingForFeet(distance) {
   if (distance <= 400); {
   scuberGreetingForFeet = "This one is on me!";
 } else if (distance > 2000 ); {
