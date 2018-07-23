@@ -1,7 +1,7 @@
 // Write your code in this file!
 
 var scuberGreetingForFeet;
-function scuberGreetingForFeet() {
+function scuberGreetingForFeet(someValue) {
   if (scuberGreetingForFeet <= 400) {
   return "This one is on me!";
 } else if (scuberGreetingForFeet > 2000 ) {
