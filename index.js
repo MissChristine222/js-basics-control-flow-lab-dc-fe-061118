@@ -1,5 +1,5 @@
 // Write your code in this file!
-const distace = 199;
+
 let scuberGreetingForFeet;
 scuberGreetingForFeet(distance); {
   if (distance <= 400); {
