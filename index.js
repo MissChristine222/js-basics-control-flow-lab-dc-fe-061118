@@ -23,5 +23,4 @@ switch (switchOnCharmFromTip) {
     return "Thank you.";
   case 'thanks for everything':
     return 'Bye';
-  
 }
